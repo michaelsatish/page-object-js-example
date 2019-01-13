@@ -1,0 +1,23 @@
+{
+  "name": "page-object-js-example",
+  "version": "1.0.0",
+  "description": "Page Object Pattern with selenium-webdriver",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 10000"
+  },
+  "keywords": [
+    "testing",
+    "automation",
+    "selenium-webdriver",
+    "page",
+    "objects"
+  ],
+  "author": "Satish Kumar Kadarkarai Mani",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
